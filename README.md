@@ -2,7 +2,7 @@
 
 Notii-fy is a simple music player application built with Python and Tkinter. It allows users to play MP3 files from a specified folder, with basic playback controls and song details display. Additionally, it supports voice commands to play specific songs by their names.
 
-![Notii-fy Music Player App](demo.png)
+![Notii-fy Music Player App](placeholder_image.jpg)
 
 ## Features
 
